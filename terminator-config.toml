@@ -1,5 +1,5 @@
 [global_config]
-  tab_position = bottom
+  tab_position = top
 [keybindings]
   go_next = <Alt>n
   go_prev = <Alt>p
